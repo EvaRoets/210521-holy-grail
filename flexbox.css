@@ -1,0 +1,85 @@
+.holygrail-container {
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    font-family: Arial, serif;
+    color: white;
+}
+
+.header {
+    flex: none;
+    background-color: #ffc996;
+    font-size: 25px;
+    text-align: center;
+    padding: 10px;
+}
+
+.holygrail-body {
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    font-size: 12px;
+    padding-top:  10px;
+    padding-bottom: 10px;
+}
+
+.holygrail-nav {
+    background-color: #ff749c;
+    flex: 1;
+    padding: 10px;
+}
+
+.holygrail-content {
+    background-color: #ff8474;
+    flex: 2;
+    text-align: justify;
+    padding: 10px;
+}
+
+.holygrail-ads {
+    background-color: #ff749c;
+    flex: 1;
+    padding: 10px;
+    text-align: justify;
+}
+
+.footer {
+    flex: none;
+    background-color: #ffc996;
+    text-align: center;
+    font-size: 12px;
+    padding: 10px;
+}
+
+img {
+    width: 150px;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+@media only screen and (max-width:768px){
+    .holygrail-container {
+        display: flex;
+        flex-direction: column;
+    }
+    .holygrail-body {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+    .holygrail-nav {
+        order: 1;
+        flex: 1;
+    }
+    .holygrail-content {
+        order: 2;
+        flex: 2;
+    }
+    .holygrail-ads {
+        order: 3;
+        flex: 1;
+    }
+}
+
