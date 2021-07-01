@@ -50,10 +50,4 @@
 6. Create a final file called `index.html`: this file will only contain the links to the other two files.
 7. Make your work available online via Github pages.
 8. Visit your pages online, change the size and look how smoothly everything adjusts. Now repeat a thousand times and feel good about yourself.
-9. Make it responsive. It should have **1 breakpoint** only, and it should behave like this:
-
-![](Images/holy-grail-responsive.gif)
-
-
-
-
+9. Make it responsive. It should have **1 breakpoint** only.
