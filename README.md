@@ -1,4 +1,7 @@
 # CSS Layout: The Holy Grail 🏆
+![holy-grail-one](https://user-images.githubusercontent.com/84382812/136959366-439d1ea7-fe9d-4ba7-8520-30f9e64d2250.PNG)
+![flexbox](https://user-images.githubusercontent.com/84382812/136959379-35ae274e-9df2-44c7-bb2e-839b5e6058d5.PNG)
+![grid](https://user-images.githubusercontent.com/84382812/136959389-e51de549-f03e-43a5-9184-1ffc5ee373ab.PNG)
 
 ## Objectives
 
