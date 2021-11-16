@@ -1,19 +1,24 @@
 # CSS Layout: The Holy Grail 🏆
+
+Watch the result of this project >> [here](https://3-holy-grail.netlify.app/)
+
 ![holy-grail-one](https://user-images.githubusercontent.com/84382812/136959366-439d1ea7-fe9d-4ba7-8520-30f9e64d2250.PNG)
 ![flexbox](https://user-images.githubusercontent.com/84382812/136959379-35ae274e-9df2-44c7-bb2e-839b5e6058d5.PNG)
 ![grid](https://user-images.githubusercontent.com/84382812/136959389-e51de549-f03e-43a5-9184-1ffc5ee373ab.PNG)
 
-## Objectives
+## 🎯 Objectives
+- visually organize content on a page in a hierarchical way
+- create a responsive layout using CSS only, while respecting a semantic HTML structure
 
-- use **CSS flexbox** to place block-level elements beside each other
-- use **CSS grid** to place block-level elements beside each other
-- create a responsive layout using CSS only, and respecting a semantic HTML structure
-- don't use frameworks
+## ✔️ Specifications
+- Use *CSS flexbox* to place block-level elements beside each other
+- Use *CSS grid* to place block-level elements beside each other
+- Create a responsive layout using CSS only, and respecting a semantic HTML structure
+- Do **NOT** use any CSS frameworks
 
-## Specifications
-
-1. Create your new repository, and add 3 HTML files called: `flexbox.html`, `grid.html`.
-2. Make sure each of the two files uses the following HTML structure:
+### 🌱 Must-haves
+#### 1️⃣ Flexbox and grid.html
+Create a new repository,and add 3 HTML files called: *index.html*, *flexbox.html* and *grid.html*. *index.html* will only contain the links to the other two files. Make sure each of the two files uses the following HTML structure:
 
 ```html
 <!DOCTYPE html>
@@ -47,10 +52,14 @@
 </html>
 ```
 
-3. Create two CSS files called, you guessed it: `flexbox.css`, `grid.css`.
-4. Make sure each HTML file includes the corresponding CSS file.
-5. In each of the CSS files you will use one of the two different techniques. You will have to do some googling to figure out how to use **flexbox** and **grid** to create the Holy Grail layout.
-6. Create a final file called `index.html`: this file will only contain the links to the other two files.
-7. Make your work available online via Github pages.
-8. Visit your pages online, change the size and look how smoothly everything adjusts. Now repeat a thousand times and feel good about yourself.
-9. Make it responsive. It should have **1 breakpoint** only.
+#### 2️⃣ Flexbox and grid.css
+Create two CSS files called, you guessed it: *flexbox.css*, *grid.css*. Make sure each HTML file includes the corresponding CSS file.
+
+#### 3️⃣ Holy grail
+Implement the holy-grail layout with **flexbox** and **grid**.
+
+#### 4️⃣ GIthub pahes
+Make your work available online via Github pages.
+
+#### 5️⃣ Responsiveness
+Make it responsive. It should have **1 breakpoint** only.
