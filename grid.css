@@ -19,8 +19,8 @@
 }
 
 .holygrail-body {
-    grid-area: holygrail-body;
     display: grid;
+    grid-area: holygrail-body;
     grid-template-columns:1fr 3fr 1fr;
     grid-template-rows: 1fr;
     grid-template-areas:
